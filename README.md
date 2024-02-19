@@ -1,6 +1,7 @@
-# StateOnlyImitationLearning
+# State Only Imitation Learning
 
 List of papers:
+
 Liu, Y., Gupta, A., Abbeel, P. and Levine, S., 2018, May. Imitation from observation: Learning to imitate behaviors from raw video via context translation. In 2018 IEEE International Conference on Robotics and Automation (ICRA) (pp. 1118-1125). IEEE.
 
 Pathak, D., Mahmoudieh, P., Luo, G., Agrawal, P., Chen, D., Shentu, Y., Shelhamer, E., Malik, J., Efros, A.A. and Darrell, T., 2018. Zero-shot visual imitation. In Proceedings of the IEEE conference on computer vision and pattern recognition workshops (pp. 2050-2053).
