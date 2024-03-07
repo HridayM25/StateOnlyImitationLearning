@@ -1,6 +1,6 @@
 # State Only Imitation Learning
 
-List of papers:
+List of papers I have covered:
 
 Liu, Y., Gupta, A., Abbeel, P. and Levine, S., 2018, May. Imitation from observation: Learning to imitate behaviors from raw video via context translation. In 2018 IEEE International Conference on Robotics and Automation (ICRA) (pp. 1118-1125). IEEE.
 
